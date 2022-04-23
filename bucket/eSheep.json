@@ -1,0 +1,21 @@
+{
+    "version": "1.2.6",
+    "description": "This project gives you the possibility to add a pet to your desktop",
+    "homepage": "https://adrianotiger.github.io/desktopPet/",
+    "license": {
+        "identifier": "Unknown",
+        "url": "https://adrianotiger.github.io/desktopPet/"
+    },
+    "url": "https://github.com/Adrianotiger/desktopPet/releases/download/v1.2.6/DesktopPet.gz",
+    "hash": "6870D0F3D6B30780E308EDC527AAB3F79504A7418317173A77288C3BE6DBDFE8",
+    "innosetup": true,
+    "bin": [
+        "DesktopPet.exe",
+    ],
+    "shortcuts": [
+        [
+            "DesktopPet.exe",
+            "DesktopPet"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "version": "1.11.1",
+    "description": "All your reference images in one place.",
+    "homepage": "https://www.pureref.com/",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://www.pureref.com/license.php"
+    },
+    "url": "https://www.pureref.com/freedownload.php?build=WIN64.zip&version=1.11.1&downloadKey=EeJUvkxK0Oye%2BNCNQkjQrQ%3D%3D",
+    "hash": "EA2FA5B34A2BEEA883F1CF81E16F91BC7970F5CE98B55B9D9990810F096D69FB",
+    "bin": [
+        "PureRef.exe"
+    ],
+    "shortcuts": [
+        [
+            "PureRef.exe",
+            "PureRef"
+        ]
+    ]
+}
